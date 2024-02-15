@@ -1,0 +1,17 @@
+[
+    {
+        "title":"p1",
+        "category":"cloth",
+        "price":"300"
+    },
+    {
+        "title":"p2",
+        "category":"cloth",
+        "price":"4000"
+    },
+    {
+        "title":"p3",
+        "category":"other",
+        "price":"200"
+    }
+]
